@@ -45,9 +45,9 @@ DevHabit is a habit tracking mobile application designed specifically for develo
 lib/
 ├── core/
 ├── features/
-│ ├── auth/
-│ ├── habits/
-│ └── dashboard/
+│   ├── auth/
+│   ├── habits/
+│   └── dashboard/
 ├── widgets/
 └── main.dart
 
