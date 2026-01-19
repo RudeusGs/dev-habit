@@ -1,4 +1,4 @@
-# DevHabit 📱
+# dev-habit
 
 DevHabit is a mobile habit tracking application designed specifically for developers to build consistent learning and coding habits, track progress, and maintain long-term discipline.
 
