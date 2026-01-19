@@ -106,6 +106,7 @@ lib/
 │
 ├── widgets/
 └── main.dart
+```
 
 
 ##  Screenshots
